@@ -180,7 +180,7 @@ export const RESUME_DATA = {
       logo: ConsultlyLogo,
       link: {
         label: "github",
-        href: "https://github.com/ADITYAVOFFICIAL/Conjexure-A-Web-App-for-Stock-Market-Forecasting",
+        href: "https://github.com/ADITYAVOFFICIAL/Skin-Disease-Classifier",
       },
     },{
       title: "Conjexure | Stock Market",
@@ -197,7 +197,7 @@ export const RESUME_DATA = {
       logo: ConsultlyLogo,
       link: {
         label: "github",
-        href: "https://github.com/ADITYAVOFFICIAL",
+        href: "https://github.com/ADITYAVOFFICIAL/Conjexure-A-Web-App-for-Stock-Market-Forecasting",
       },
     },{
       title: "SRM KTR ACM SIGKDD Student Chapter Official Webstie",
