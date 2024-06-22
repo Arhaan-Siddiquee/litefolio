@@ -142,7 +142,7 @@ export const RESUME_DATA = {
       logo: ConsultlyLogo,
       link: {
         label: "github",
-        href: "https://github.com/ADITYAVOFFICIAL",
+        href: "https://github.com/ADITYAVOFFICIAL/Leaf-Disease-Prediction",
       },
     },
     // {
@@ -180,7 +180,7 @@ export const RESUME_DATA = {
       logo: ConsultlyLogo,
       link: {
         label: "github",
-        href: "https://github.com/ADITYAVOFFICIAL",
+        href: "https://github.com/ADITYAVOFFICIAL/Conjexure-A-Web-App-for-Stock-Market-Forecasting",
       },
     },{
       title: "Conjexure | Stock Market",
@@ -213,7 +213,7 @@ export const RESUME_DATA = {
       logo: ConsultlyLogo,
       link: {
         label: "github",
-        href: "https://github.com/ADITYAVOFFICIAL",
+        href: "https://github.com/ADITYAVOFFICIAL/Official_Website",
       },
     },{
       title: "Fortuna",
@@ -230,7 +230,7 @@ export const RESUME_DATA = {
       logo: ConsultlyLogo,
       link: {
         label: "github",
-        href: "https://github.com/ADITYAVOFFICIAL",
+        href: "https://github.com/ADITYAVOFFICIAL/fortuna",
       },
     },{
       title: "Archive - School Meeting Portal",
@@ -246,7 +246,7 @@ export const RESUME_DATA = {
       logo: ConsultlyLogo,
       link: {
         label: "github",
-        href: "https://github.com/ADITYAVOFFICIAL",
+        href: "https://github.com/ADITYAVOFFICIAL/linko",
       },
     },
   ],
