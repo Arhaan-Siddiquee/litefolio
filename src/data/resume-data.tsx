@@ -91,7 +91,7 @@ export const RESUME_DATA = {
     },
     {
       company: "HacktoberFest",
-      link: "https://www.nexttechlab.in",
+      link: "https://hacktoberfest.com/",
       badges: ["Open Source"],
       title: "Contributor",
       logo: ClevertechLogo,
