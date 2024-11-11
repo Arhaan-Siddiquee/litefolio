@@ -80,7 +80,7 @@ export const RESUME_DATA = {
     },
     {
       company: "Founders Club",
-      link: "dscommunity.in",
+      link: "https://github.com/founder-srm",
       badges: ["Club/Community"],
       title: "Associate Team Lead",
       logo: JojoMobileLogo,
