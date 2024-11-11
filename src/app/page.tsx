@@ -10,8 +10,8 @@ import { RESUME_DATA } from "@/data/resume-data";
 import { ProjectCard } from "@/components/project-card";
 
 export const metadata: Metadata = {
-  title: "ADITYA VERMA | LITE SITE",
-  description: "Official lite site of portfolio of Aditya Verma.",
+  title: "ARHAAN SIDDIQUEE | LITE SITE",
+  description: "Official lite site of portfolio of Arhaan Siddiquee.",
 };
 
 export default function Page() {

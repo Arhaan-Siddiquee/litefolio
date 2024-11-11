@@ -6,7 +6,7 @@ import "./globals.css";
 import React from "react";
 
 export const metadata: Metadata = {
-  title: "ADITYA VERMA",
+  title: "ARHAAN SIDDIQUEE",
   description: "LITE VERSION PORTFOLIO",
 };
 
