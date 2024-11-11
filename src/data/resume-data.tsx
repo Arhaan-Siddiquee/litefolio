@@ -84,7 +84,7 @@ export const RESUME_DATA = {
       badges: ["Club/Community"],
       title: "Associate Team Lead",
       logo: JojoMobileLogo,
-      start: "2022",
+      start: "2023",
       end: "Present",
       description:
         "Serving as the Associate Team Lead and UI/UX Creative Designer for the Entrepreneur Club at the university. Led the design and development of various technical events, workshops, and hackathons. Played a key role in the Foundathon, contributing both creatively and strategically to the event's success.",
