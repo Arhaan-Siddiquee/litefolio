@@ -102,7 +102,7 @@ export const RESUME_DATA = {
     },
     {
       company: "dBug Labs",
-      link: "https://www.credly.com/badges/f2f37780-e24b-441c-a84f-57a5222cedff/public_url",
+      link: "",
       badges: ["Club/Community"],
       title: "Creative Designer",
       logo: ParabolLogo,
