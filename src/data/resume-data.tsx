@@ -69,7 +69,7 @@ export const RESUME_DATA = {
     },
     {
       company: "CODENEX CLUB SRMIST",
-      link: "https://srmsigkdd.vercel.app/",
+      link: "https://codenex-recurtment-24.vercel.app/",
       badges: ["Club/Community"],
       title: "Technical Team Member",
       logo: ParabolLogo,
