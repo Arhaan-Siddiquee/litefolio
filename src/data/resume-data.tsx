@@ -102,7 +102,7 @@ export const RESUME_DATA = {
     },
     {
       company: "dBug Labs",
-      link: "",
+      link: "https://github.com/dBug-Labs",
       badges: ["Club/Community"],
       title: "Creative Designer",
       logo: ParabolLogo,
