@@ -250,6 +250,19 @@ export const RESUME_DATA = {
         label: "github",
         href: "https://github.com/Arhaan-Siddiquee/Purrfect",
       },
+    },{
+      title: "CodeNex Website",
+      techStack: [
+        "TailwindCSS",
+        "ReactJs",
+        "Teamwork",
+        "Organization",
+      ],
+      description: "Club Website Made with ReactJs and tailwind. ",
+      link: {
+        label: "github",
+        href: "https://www.codenex.co.in/",
+      },
     },
   ],
 } as const;
